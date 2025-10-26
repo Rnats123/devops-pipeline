@@ -3,7 +3,7 @@ name: First pipeline
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   builds:
